@@ -1,4 +1,7 @@
 # GridView - How to restore detail rows' state if a user leaves a page and returns back
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4840)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to restore state of grid detail rows if the user leaves a page and then returns back.</p>
