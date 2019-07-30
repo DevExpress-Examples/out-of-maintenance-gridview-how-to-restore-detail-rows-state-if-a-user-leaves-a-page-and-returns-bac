@@ -1,6 +1,6 @@
 # GridView - How to restore detail rows' state if a user leaves a page and returns back
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4840)**
+**[[Run Online]](https://codecentral.devexpress.com/e4840/)**
 <!-- run online end -->
 
 
